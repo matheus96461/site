@@ -1,0 +1,75 @@
+.page{
+
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    
+
+}
+
+.icon{
+  position: absolute;
+  top: -30%;
+    
+    
+  
+    
+    
+    
+    
+    
+    
+
+}
+.btn i{
+    
+    font-size: 30px;
+    transition: 0.3s linear;
+    width: 30px;
+    display: inline-block;
+    position: relative;
+    right: 50;
+    left: 12%;
+    margin-top: 20rem;
+    
+    
+
+    
+    
+    
+    
+    
+
+}
+
+
+
+.icon .btn{
+    color: rgb(255, 255, 255)
+    
+    
+}
+
+.btn:hover{
+    
+    color: rgb(233, 232, 232);
+    
+    
+    
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    
+    
+    
+    
+}
+
+
+
+
+
+
